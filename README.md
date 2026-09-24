@@ -7,3 +7,7 @@ Version: 0.1.0-dev
 ## Endpoints
 
 (to be added)
+
+## Quote Model
+
+The quote model stores quote text and its author.
