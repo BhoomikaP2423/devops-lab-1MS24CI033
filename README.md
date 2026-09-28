@@ -14,3 +14,4 @@ Version: 0.1.0-dev
 The quote model stores quote text and its author.
 
 Quote service handles quote retrieval.
+
