@@ -1,6 +1,7 @@
 target/
 build/
 *.jar
+!gradle/wrapper/gradle-wrapper.jar
 *.war
 *.class
 .idea/
@@ -17,3 +18,4 @@ build/
 *.pem
 *.key
 credentials*
+.gradle/
